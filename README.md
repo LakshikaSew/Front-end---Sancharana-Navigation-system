@@ -4,7 +4,7 @@
 Sancharana is a navigation system created for an academic project. This system provides users with easy access to key information about nearby taxies and hotels through a structured navigation interface. The front-end of the application consists of three main pages: Index, Taxies, and Hotels.
 
 <B>Home Page </b>
-![Home Page](screenshots/login.png)
+![Home Page](https://github.com/LakshikaSew/Front-end---Sancharana-Navigation-system/blob/f4b72c60d77c389cb30826e4875c2a61c00c6588/Screenshots/Index.png)
 
 <b>Taxi Page </b>
 ![Feedback Form](screenshots/feedback_form.png)
