@@ -7,7 +7,7 @@ Sancharana is a navigation system created for an academic project. This system p
 ![Home Page](https://github.com/LakshikaSew/Front-end---Sancharana-Navigation-system/blob/f4b72c60d77c389cb30826e4875c2a61c00c6588/Screenshots/Index.png)
 
 <b>Taxi Page </b>
-![Feedback Form](screenshots/feedback_form.png)
+![Feedback Form](https://github.com/LakshikaSew/Front-end---Sancharana-Navigation-system/blob/75bb42061e8f44c440e8d73ea7f4008795314701/Screenshots/Taxi.png)
 
 <b>Hotel Page</b>
 ![Report Generation](screenshots/report_generation.png)
